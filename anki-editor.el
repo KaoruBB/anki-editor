@@ -504,7 +504,7 @@ The implementation is borrowed and simplified from ox-html."
 
 (defun anki-editor--export-string (src fmt)
   "Export string SRC and format it if FMT.
-If the string starts with ':raw:', return the string as is."
+If the string starts with '# raw', return the string as is."
   (if (and (stringp src) (string-prefix-p "# raw" src))
       (substring src 5)
     (if fmt
