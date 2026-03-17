@@ -1,0 +1,1361 @@
+#+PROPERTY: ANKI_DECK Tests
+
+* Bench attachment 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 1
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 1.
+
+* Bench attachment 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 2
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 2.
+
+* Bench attachment 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 3
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 3.
+
+* Bench attachment 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 4
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 4.
+
+* Bench attachment 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 5
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 5.
+
+* Bench attachment 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 6
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 6.
+
+* Bench attachment 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 7
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 7.
+
+* Bench attachment 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 8
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 8.
+
+* Bench attachment 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 9
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 9.
+
+* Bench attachment 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 10
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 10.
+
+* Bench attachment 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 11
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 11.
+
+* Bench attachment 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 12
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 12.
+
+* Bench attachment 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 13
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 13.
+
+* Bench attachment 14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 14
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 14.
+
+* Bench attachment 15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 15
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 15.
+
+* Bench attachment 16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 16
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 16.
+
+* Bench attachment 17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 17
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 17.
+
+* Bench attachment 18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 18
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 18.
+
+* Bench attachment 19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 19
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 19.
+
+* Bench attachment 20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 20
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 20.
+
+* Bench attachment 21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 21
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 21.
+
+* Bench attachment 22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 22
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 22.
+
+* Bench attachment 23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 23
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 23.
+
+* Bench attachment 24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 24
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 24.
+
+* Bench attachment 25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 25
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 25.
+
+* Bench attachment 26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 26
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 26.
+
+* Bench attachment 27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 27
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 27.
+
+* Bench attachment 28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 28
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 28.
+
+* Bench attachment 29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 29
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 29.
+
+* Bench attachment 30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 30
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 30.
+
+* Bench attachment 31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 31
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 31.
+
+* Bench attachment 32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 32
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 32.
+
+* Bench attachment 33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 33
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 33.
+
+* Bench attachment 34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 34
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 34.
+
+* Bench attachment 35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 35
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 35.
+
+* Bench attachment 36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 36
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 36.
+
+* Bench attachment 37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 37
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 37.
+
+* Bench attachment 38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 38
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 38.
+
+* Bench attachment 39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 39
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 39.
+
+* Bench attachment 40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:DIR: test-attachments
+:END:
+
+** Front
+Attachment note 40
+
+** Back
+[[./test-attachments/1x1.gif][Bench image]]
+This note uses attachment export path 40.
+
+* Bench text 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 1
+
+** Back
+Lorem ipsum dolor sit amet 1.
+
+* Bench text 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 2
+
+** Back
+Lorem ipsum dolor sit amet 2.
+
+* Bench text 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 3
+
+** Back
+Lorem ipsum dolor sit amet 3.
+
+* Bench text 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 4
+
+** Back
+Lorem ipsum dolor sit amet 4.
+
+* Bench text 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 5
+
+** Back
+Lorem ipsum dolor sit amet 5.
+
+* Bench text 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 6
+
+** Back
+Lorem ipsum dolor sit amet 6.
+
+* Bench text 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 7
+
+** Back
+Lorem ipsum dolor sit amet 7.
+
+* Bench text 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 8
+
+** Back
+Lorem ipsum dolor sit amet 8.
+
+* Bench text 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 9
+
+** Back
+Lorem ipsum dolor sit amet 9.
+
+* Bench text 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 10
+
+** Back
+Lorem ipsum dolor sit amet 10.
+
+* Bench text 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 11
+
+** Back
+Lorem ipsum dolor sit amet 11.
+
+* Bench text 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 12
+
+** Back
+Lorem ipsum dolor sit amet 12.
+
+* Bench text 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 13
+
+** Back
+Lorem ipsum dolor sit amet 13.
+
+* Bench text 14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 14
+
+** Back
+Lorem ipsum dolor sit amet 14.
+
+* Bench text 15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 15
+
+** Back
+Lorem ipsum dolor sit amet 15.
+
+* Bench text 16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 16
+
+** Back
+Lorem ipsum dolor sit amet 16.
+
+* Bench text 17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 17
+
+** Back
+Lorem ipsum dolor sit amet 17.
+
+* Bench text 18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 18
+
+** Back
+Lorem ipsum dolor sit amet 18.
+
+* Bench text 19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 19
+
+** Back
+Lorem ipsum dolor sit amet 19.
+
+* Bench text 20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 20
+
+** Back
+Lorem ipsum dolor sit amet 20.
+
+* Bench text 21
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 21
+
+** Back
+Lorem ipsum dolor sit amet 21.
+
+* Bench text 22
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 22
+
+** Back
+Lorem ipsum dolor sit amet 22.
+
+* Bench text 23
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 23
+
+** Back
+Lorem ipsum dolor sit amet 23.
+
+* Bench text 24
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 24
+
+** Back
+Lorem ipsum dolor sit amet 24.
+
+* Bench text 25
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 25
+
+** Back
+Lorem ipsum dolor sit amet 25.
+
+* Bench text 26
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 26
+
+** Back
+Lorem ipsum dolor sit amet 26.
+
+* Bench text 27
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 27
+
+** Back
+Lorem ipsum dolor sit amet 27.
+
+* Bench text 28
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 28
+
+** Back
+Lorem ipsum dolor sit amet 28.
+
+* Bench text 29
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 29
+
+** Back
+Lorem ipsum dolor sit amet 29.
+
+* Bench text 30
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 30
+
+** Back
+Lorem ipsum dolor sit amet 30.
+
+* Bench text 31
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 31
+
+** Back
+Lorem ipsum dolor sit amet 31.
+
+* Bench text 32
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 32
+
+** Back
+Lorem ipsum dolor sit amet 32.
+
+* Bench text 33
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 33
+
+** Back
+Lorem ipsum dolor sit amet 33.
+
+* Bench text 34
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 34
+
+** Back
+Lorem ipsum dolor sit amet 34.
+
+* Bench text 35
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 35
+
+** Back
+Lorem ipsum dolor sit amet 35.
+
+* Bench text 36
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 36
+
+** Back
+Lorem ipsum dolor sit amet 36.
+
+* Bench text 37
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 37
+
+** Back
+Lorem ipsum dolor sit amet 37.
+
+* Bench text 38
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 38
+
+** Back
+Lorem ipsum dolor sit amet 38.
+
+* Bench text 39
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 39
+
+** Back
+Lorem ipsum dolor sit amet 39.
+
+* Bench text 40
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+Plain text note 40
+
+** Back
+Lorem ipsum dolor sit amet 40.
+
+* Bench file link 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 1
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 1.
+
+* Bench file link 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 2
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 2.
+
+* Bench file link 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 3
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 3.
+
+* Bench file link 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 4
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 4.
+
+* Bench file link 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 5
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 5.
+
+* Bench file link 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 6
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 6.
+
+* Bench file link 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 7
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 7.
+
+* Bench file link 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 8
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 8.
+
+* Bench file link 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 9
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 9.
+
+* Bench file link 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 10
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 10.
+
+* Bench file link 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 11
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 11.
+
+* Bench file link 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 12
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 12.
+
+* Bench file link 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 13
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 13.
+
+* Bench file link 14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 14
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 14.
+
+* Bench file link 15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 15
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 15.
+
+* Bench file link 16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 16
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 16.
+
+* Bench file link 17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 17
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 17.
+
+* Bench file link 18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 18
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 18.
+
+* Bench file link 19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 19
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 19.
+
+* Bench file link 20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Basic
+:END:
+
+** Front
+File link note 20
+
+** Back
+[[file:test-attachments/1x1.gif][Bench image]]
+This note uses file-link export path 20.
+
+* Bench cloze 1
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 1 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 2
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 2 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 3
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 3 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 4
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 4 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 5
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 5 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 6
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 6 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 7
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 7 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 8
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 8 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 9
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 9 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 10
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 10 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 11
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 11 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 12
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 12 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 13
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 13 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 14
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 14 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 15
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 15 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 16
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 16 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 17
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 17 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 18
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 18 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 19
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 19 contains {{c1::cloze deletion}} and some extra text.
+
+* Bench cloze 20
+:PROPERTIES:
+:ANKI_NOTE_TYPE: Cloze
+:END:
+
+** Text
+Benchmark note 20 contains {{c1::cloze deletion}} and some extra text.
