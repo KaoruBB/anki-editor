@@ -1103,23 +1103,28 @@ hence the need to shadow the `org-attach-dir' function."
          (attach-dir
           (let ((org-attach-use-inheritance t)
                 (dir (org-attach-dir)))
-            (and dir (expand-file-name dir src-dir))))
-         (expand-links (lambda (str)
-                         (cl-letf (((symbol-function 'org-attach-dir)
-                                    (lambda () attach-dir)))
-                           (with-temp-buffer
-                             (org-mode)
-                             (let ((default-directory src-dir)
-                                   (buffer-file-name src-file)
-                                   (org-attach-dir-relative nil))
-                               (insert str)
-                               (goto-char (point-min))
-                               (org-attach-expand-links nil)
-                               (buffer-string)))))))
+            (and dir (expand-file-name dir src-dir)))))
     (if (not attach-dir)
         fields
-      (cl-loop for (name . value) in fields
-               collect (cons name (funcall expand-links value))))))
+      (with-temp-buffer
+        (org-mode)
+        (let ((default-directory src-dir)
+              (buffer-file-name src-file)
+              (org-attach-dir-relative nil))
+          (cl-letf (((symbol-function 'org-attach-dir)
+                     (lambda () attach-dir)))
+            (cl-loop
+             for (name . value) in fields
+             collect
+             (cons name
+                   (if (and (stringp value) (string-match-p "attachment:" value))
+                       (progn
+                         (erase-buffer)
+                         (insert value)
+                         (goto-char (point-min))
+                         (org-attach-expand-links nil)
+                         (buffer-string))
+                     value)))))))))
 
 (defun anki-editor--get-tags ()
   "Return list of tags of org entry at point."
